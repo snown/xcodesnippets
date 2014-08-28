@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: AC3DB1C4-384E-442F-B52E-D4C032F245C2
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 @try {
     [<# object #> removeObserver:<# self #> forKeyPath:NSStringFromSelector(@selector(<# propertyName #>))];
 }
