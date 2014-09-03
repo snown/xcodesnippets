@@ -8,5 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 + (instanceType)<#classShorthand#> {
-    return [(<#className#> *)[selalloc] init];
+    return [(<#className#> *)[self alloc] init];
 }
