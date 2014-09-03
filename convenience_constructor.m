@@ -7,6 +7,6 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-+ (instanceType)<#classShorthand#> {
++ (instancetype)<#classShorthand#> {
     return [(<#className#> *)[self alloc] <# init #>];
 }
