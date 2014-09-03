@@ -1,8 +1,8 @@
-// Nonatomic Setter
+// Nonatomic Setter Body
 // 
 //
 // IDECodeSnippetCompletionPrefix: setter
-// IDECodeSnippetCompletionScopes: [All]
+// IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: me.snippets.distributor.Xcode__iYpkhsMZTduyuguwAedc0A
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
