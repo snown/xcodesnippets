@@ -7,7 +7,6 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-- (void)set<#PropertyName#>:(<#NSObject#> *)<#propertyName#> {
     if (_<#propertyName#> != <#propertyName#>) {
         [self willChangeValueForKey:@"<#propertyName#>"];
         
@@ -15,4 +14,3 @@
         
         [self didChangeValueForKey:@"<#propertyName#>"];
     }
-}
