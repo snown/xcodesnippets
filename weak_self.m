@@ -1,5 +1,5 @@
 // Weak Self
-// 
+// Weak reference to self before use in Block
 //
 // IDECodeSnippetCompletionPrefix: weakself
 // IDECodeSnippetCompletionScopes: [CodeBlock]
