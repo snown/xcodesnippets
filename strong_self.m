@@ -1,5 +1,5 @@
 // Strong Self
-// 
+// Reversing weakself within a Block
 //
 // IDECodeSnippetCompletionPrefix: strongself
 // IDECodeSnippetCompletionScopes: [CodeBlock]
