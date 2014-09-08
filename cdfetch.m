@@ -3,7 +3,7 @@
 //
 // IDECodeSnippetCompletionPrefix: cdfetch
 // IDECodeSnippetCompletionScopes: [All]
-// IDECodeSnippetIdentifier: com.mtrx.snippets-123456789
+// IDECodeSnippetIdentifier: 365C914B-EAF8-4B4A-99E1-63A2CB3E1337
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
