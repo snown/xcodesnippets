@@ -6,5 +6,5 @@
 // IDECodeSnippetIdentifier: 730709C6-E649-463D-89F1-DFD3070193EC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 [[NSProcessInfo processInfo] globallyUniqueString]
